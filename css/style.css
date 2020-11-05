@@ -1,0 +1,82 @@
+.myrows{
+    border:3px solid green;
+    padding: 5px
+}
+.mycols{
+    border:3px solid red;
+}
+.mycontainer{
+    background-color: aqua;
+}
+#topHeader{
+   
+    border-bottom: 1px solid #ebebeb;
+}
+#topHeader a{
+    color: #2c3e50;
+    font-weight: 500;
+    font-size: 0.89rem;
+}
+.container-fluid{
+    padding-left:0;
+    padding-right: 0;
+}
+nav ul li a{
+    font-size:1.1em;
+    font-weight:600;
+}
+/* start : footer*/
+.full-footer{
+    background-color: #344956;
+    
+}
+.top-footer p,a{
+font-weight: 600;
+color: white;
+}
+.top-footer h4{
+    color: white;
+}
+.bottom-footer{
+    background-color: #031b2e;
+}
+.bottom-footer p{
+    color: white;
+}
+.top-hero-section{
+background-color: #3498db;
+color: white;
+}
+top-hero-section a{
+    color: white;
+    font-weight: 600;
+}
+.qualities-img{
+    width: 180px;
+}
+.requirements-section{
+    background-color: #004d80;
+    color: white;
+}
+.home-newsletter{
+    background-color: #004d80;
+    color: white;
+}
+.home-newsletter .form-control{
+    height: 40px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+.home-newsletter .btn{
+    min-height: 40px;
+    border-radius: 0 20px 20px 0; /*border radius:left top(0) right top(20px) right bottom(20px),left bottom(0)*/
+    background: #243c4f;
+    color: #fff;
+}
+.client-section{
+    background-color: #f0f0f0;
+}
+
+
+
+/* end : footer*4
